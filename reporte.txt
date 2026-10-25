@@ -1,0 +1,16 @@
+Usuario: 678678
+Clave: 6786
+IP: 127.0.0.1
+Dispositivo: pc
+Entidad: cc
+Estado: error
+Ident: bogota
+----------------------
+Usuario: 678678
+Clave: 6787
+IP: 127.0.0.1
+Dispositivo: 
+Entidad: cc
+Estado: esperando
+Ident: bogota
+----------------------
